@@ -3,9 +3,7 @@ Instructions to execute 98point6 Drop Token
 
 1)	Load the Drop_Token_98point6.java file into Eclipse with program name as Drop_Token_98point6
 2)	Run the program.
-3)	After successful running of the program, you will able to see “> ” symbol which shows that you can enter the commands.
-
-The commands are,
+3)	After successful running of the program, you will able to see “> ” symbol which shows that you can enter the commands. The commands are,
 
 * PUT <column> gives 
   - OK -> If it can insert the value successfully
